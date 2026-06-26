@@ -10,7 +10,7 @@
 * item
 
 #nota
-> [NOTE]
+> [!NOTE]
 > aqui temos uma nota.
 
 ## H2
