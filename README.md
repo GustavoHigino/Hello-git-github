@@ -8,6 +8,12 @@
 * item
 * item 
 * item
+
+#nota
+> [NOTE]
+> aqui temos uma nota.
+
 ## H2
+
 ### H3
 __Sample text__
