@@ -13,6 +13,19 @@
 > [!NOTE]
 > aqui temos uma nota.
 
+> [!TIP]
+> aqui temos uma TIP.
+
+> [!IMPORTANT]
+> aqui temos uma Important.
+
+> [!WARNING]
+> aqui temos uma warning.
+
+> [!CAUTION]
+> aqui temos uma caution.
+
+
 ## H2
 
 ### H3
